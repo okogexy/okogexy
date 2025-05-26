@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=okogexy&style=plastic" />
 
-Приветствую, я начинающий разработчик модификаций и серверов, сайтов, а также учусь разрабатывать моды и плагины на заказ.<br>
+Приветствую, я разработчик модификаций и серверов, сайтов, а также учусь разрабатывать моды и плагины на заказ.<br>
 
 
 - 🍀 Я разрабатываю исключительно **Minecraft моды и плагины** на языке программирования Java а также, **сайты** на PHP.
@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="left">Языки и инструментарий:</h3>
+<h3 align="left">Языки и инструментарий для работы:</h3>
 <p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
@@ -24,4 +24,4 @@
 Личное благодарство за помощь и поддержку в обучении: [Xinboshin](https://github.com/Xinboshin)
 ---
 
-Свежесть редакции: 16/02/2025 11:45
+Свежесть редакции: 26/05/2025 14:43
